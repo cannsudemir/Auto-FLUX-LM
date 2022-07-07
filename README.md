@@ -1,0 +1,2 @@
+# Auto-FLUX-LM
+This code automates the solution of FLUX-LM for different time steps. It takes the input file (temperature-depth-time, in csv format), runs FLUX-LM and outputs the results for each time step into another csv document. FLUX-LM estimates vertical groundwater fluxes using multi-depth measurements of ground temperatures and the analytical solution of 1-D steady-state heat transport equation.
